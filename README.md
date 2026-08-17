@@ -1,7 +1,5 @@
-# Sonic_R_AP_manual
+# Sonic R AP manual
 A Archipelago Manual for Sonic R 
-
-Sonic R AP Manual
 
 # Notes
 - If You wanna use Sonic R mod manager use Sonic R Updater!
