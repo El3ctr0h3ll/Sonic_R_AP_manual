@@ -1,0 +1,172 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": 1,
+      "name": "Resort Island Key",
+      "category": [
+        "level Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Radical City Key",
+      "category": [
+        "level Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Regal Ruins Key",
+      "category": [
+        "level Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Reactive Factory Key",
+      "category": [
+        "level Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sonic the hedgehog",
+      "category": [
+        "Starting Characters"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Tails",
+      "category": [
+        "Starting Characters"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Knuckles",
+      "category": [
+        "Starting Characters"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Amy Rose",
+      "category": [
+        "Starting Characters"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dr. Eggman",
+      "category": [
+        "eggman"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Metal Sonic",
+      "category": [
+        "UnlockableCharacters"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tails Doll",
+      "category": [
+        "UnlockableCharacters"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Metal Knuckles",
+      "category": [
+        "UnlockableCharacters"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Egg Robo",
+      "category": [
+        "UnlockableCharacters"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Blue Chaos Emerald",
+      "category": [
+        "Emeralds"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Green Chaos Emerald",
+      "category": [
+        "Emeralds"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Purple Chaos Emerald",
+      "category": [
+        "Emeralds"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Orange Chaos Emerald",
+      "category": [
+        "Emeralds"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Yellow Chaos Emerald",
+      "category": [
+        "Emeralds"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Red Chaos Emerald",
+      "category": [
+        "Emeralds"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "White Chaos Emerald",
+      "category": [
+        "Emeralds"
+      ],
+      "progression": true
+    },
+    {
+      "count": "20",
+      "name": "Sonic Token",
+      "category": ["Sonic Token"
+	  ],
+      "progression": true
+    }
+  ]
+}

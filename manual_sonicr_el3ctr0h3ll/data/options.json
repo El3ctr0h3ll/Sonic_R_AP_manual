@@ -1,0 +1,82 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+  "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+  "core": {
+    "goal": {
+      "_comment": [
+        "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+      ],
+      "display_name": "The End Objective",
+      "description": "How to End your Randomized playthrough.",
+      "aliases": {
+        "easiest": 0
+      },
+      "hidden": false
+    },
+    "death_link": {
+      "default": false
+    },
+    "filler_traps": {
+      "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+      "values": {
+        "recommended": 20
+      }
+    }
+  },
+  "user": {
+    "_commented_out_option": {
+      "type": "Toggle",
+      "default": true
+    },
+    "UnlockableCharacters": {
+      "description": [
+        "Toggles Unlockable Characters as Items",
+        "(5 items)"
+      ],
+      "type": "Toggle",
+      "default": true
+    },
+    "eggman": {
+      "description": [
+        "Toggles EggMan as an Item",
+        "do to how you unlock eggman (conplete final stage with emeralds) I don't recommend this",
+		"unlest you have 'unlock all characters, stages abd emeralds' code on",
+        "(1 item)"
+      ],
+      "type": "Toggle",
+      "default": false
+    },
+    "timeattacksanity": {
+      "description": [
+        "Toggles if time attacks are locations",
+        "(3 Checks)"
+      ],
+      "type": "Toggle",
+      "default": false,
+    },
+    "reversetimeattacksanity": {
+      "description": [
+        "Toggles if reverse time attacks are locations",
+        "(3 Checks)"
+      ],
+      "type": "Toggle",
+      "default": false,
+    },
+    "Balloonssanity": {
+      "description": [
+        "Toggles if Balloon time attacks are locations",
+        "(3 Checks)"
+      ],
+      "type": "Toggle",
+      "default": false,
+    },
+    "Tagsanity": {
+      "description": [
+        "Toggles if Tag are locations",
+        "(3 Checks)"
+      ],
+      "type": "Toggle",
+      "default": false,
+    }
+  }
+}

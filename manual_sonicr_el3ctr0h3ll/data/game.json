@@ -1,0 +1,16 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "SonicR",
+  "creator": "El3ctr0H3ll",
+  "filler_item_name": "Sonic R Filler",
+"starting_items": [
+    {
+      "item_categories": ["Starting Characters"],
+      "random": 1
+    },
+	   {
+      "item_categories": ["level Key"],
+      "random": 1
+    }
+  ]
+}

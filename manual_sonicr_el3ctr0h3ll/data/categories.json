@@ -1,0 +1,20 @@
+{ 
+"UnlockableCharacters": {
+        "yaml_option": ["UnlockableCharacters"]
+    },
+	"eggman": {
+        "yaml_option": ["eggman"]
+    },
+		"timeattacksanity": {
+        "yaml_option": ["timeattacksanity"]
+    },
+		"reversetimeattacksanity": {
+        "yaml_option": ["reversetimeattacksanity"]
+    },
+		"Balloonssanity": {
+        "yaml_option": ["Balloonssanity"]
+    },
+		"Tagsanity": {
+        "yaml_option": ["Tagsanity"]
+    }
+	}

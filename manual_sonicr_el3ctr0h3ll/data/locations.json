@@ -1,0 +1,398 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "Resort Island 1st place Grand prix",
+      "category": [
+        "Main level"
+      ],
+      "requires": "|Resort Island Key|"
+    },
+    {
+      "name": "Radical City 1st place Grand prix",
+      "category": [
+        "Main level"
+      ],
+      "requires": "|Radical City Key|"
+    },
+    {
+      "name": "Regal Ruins 1st place Grand prix",
+      "category": [
+        "Main level"
+      ],
+      "requires": "|Regal Ruins Key|"
+    },
+    {
+      "name": "Reactive Factory 1st place Grand prix",
+      "category": [
+        "Main level"
+      ],
+      "requires": "|Reactive Factory Key|"
+    },
+    {
+      "name": "Radiant Emerald 1st place Grand prix",
+      "victory": true,
+      "category": [
+        "Main level"
+      ],
+      "requires": "|Blue Chaos Emerald| AND (|Green Chaos Emerald|) AND (|Purple Chaos Emerald|) AND (|Orange Chaos Emerald|) AND (|Yellow Chaos Emerald|) AND (|Red Chaos Emerald|) AND (|White Chaos Emerald|) AND (|Sonic Token:10|)"
+    },
+    {
+      "name": "1st place Grand prix as Sonic",
+      "category": [
+        "1st place as a charater"
+      ],
+      "requires": "|Sonic the hedgehog|"
+    },
+    {
+      "name": "1st place Grand prix as Tails",
+      "category": [
+        "1st place as a charater"
+      ],
+      "requires": "|Tails|"
+    },
+    {
+      "name": "1st place Grand prix as Knuckles",
+      "category": [
+        "1st place as a charater"
+      ],
+      "requires": "|Knuckles|"
+    },
+    {
+      "name": "1st place Grand prix as Amy Rose",
+      "category": [
+        "1st place as a charater"
+      ],
+      "requires": "|Amy Rose|"
+    },
+    {
+      "name": "Resort Island Coin On top of the rock",
+      "category": [
+        "Resort Island locatoins"
+      ],
+      "requires": "|Resort Island Key|"
+    },
+    {
+      "name": "Resort Island Coin Under the waterfall",
+      "category": [
+        "Resort Island locatoins"
+      ],
+      "requires": "|Resort Island Key|"
+    },
+    {
+      "name": "Resort Island Coin 20 ring door near village",
+      "category": [
+        "Resort Island locatoins"
+      ],
+      "requires": "|Resort Island Key|"
+    },
+    {
+      "name": "Resort Island Coin island",
+      "category": [
+        "Resort Island locatoins"
+      ],
+      "requires": "|Resort Island Key|"
+    },
+    {
+      "name": "Resort Island Coin left side road the mounten",
+      "category": [
+        "Resort Island locatoins"
+      ],
+      "requires": "|Resort Island Key|"
+    },
+    {
+      "name": "Resort Island 50 ring door Blue chaos emerald",
+      "category": [
+        "Resort Island locatoins"
+      ],
+      "requires": "|Resort Island Key|"
+    },
+    {
+      "name": "Radical City Coin close by green emerald",
+      "category": [
+        "Radical City locatoins"
+      ],
+      "requires": "|Resort Island Key|"
+    },
+    {
+      "name": "Radical City Coin left path forward",
+      "category": [
+        "Radical City locatoins"
+      ],
+      "requires": "|Radical City Key|"
+    },
+    {
+      "name": "Radical City Coin left path",
+      "category": [
+        "Radical City locatoins"
+      ],
+      "requires": "|Radical City Key|"
+    },
+    {
+      "name": "Radical City Coin pinball table",
+      "category": [
+        "Radical City locatoins"
+      ],
+      "requires": "|Radical City Key|"
+    },
+    {
+      "name": "Radical City Coin 20 ring door ",
+      "category": [
+        "Radical City locatoins"
+      ],
+      "requires": "|Radical City Key|"
+    },
+    {
+      "name": "Radical City 20 ring door Green chaos emerald",
+      "category": [
+        "Radical City locatoins"
+      ],
+      "requires": "|Radical City Key|"
+    },
+    {
+      "name": "Radical City 50 ring door Purple chaos emerald",
+      "category": [
+        "Radical City locatoins"
+      ],
+      "requires": "|Radical City Key|"
+    },
+    {
+      "name": "win tails doll race",
+      "category": [
+        "Radical City locatoins"
+      ],
+      "requires": "|Radical City Key|"
+    },
+    {
+      "name": "win metal sonic race",
+      "category": [
+        "Resort Island locatoins"
+      ],
+      "requires": "|Resort Island Key|"
+    },
+    {
+      "name": "Regal Ruins Coin after bridge",
+      "category": [
+        "Regal Ruins locatoins"
+      ],
+      "requires": "|Regal Ruins Key|"
+    },
+    {
+      "name": "Regal Ruins Coin top of start line hill",
+      "category": [
+        "Regal Ruins locatoins"
+      ],
+      "requires": "|Regal Ruins Key|"
+    },
+    {
+      "name": "Regal Ruins Coin red spring",
+      "category": [
+        "Regal Ruins locatoins"
+      ],
+      "requires": "|Regal Ruins Key|"
+    },
+    {
+      "name": "Regal Ruins Coin tunnel",
+      "category": [
+        "Regal Ruins locatoins"
+      ],
+      "requires": "|Regal Ruins Key|"
+    },
+    {
+      "name": "Regal Ruins Coin main path",
+      "category": [
+        "Regal Ruins locatoins"
+      ],
+      "requires": "|Regal Ruins Key|"
+    },
+    {
+      "name": "Radical City 20 ring door Orange chaos emerald",
+      "category": [
+        "Regal Ruins locatoins"
+      ],
+      "requires": "|Regal Ruins Key|"
+    },
+    {
+      "name": "Radical City 50 ring door Yellow chaos emerald",
+      "category": [
+        "Regal Ruins locatoins"
+      ],
+      "requires": "|Regal Ruins Key|"
+    },
+    {
+      "name": "win Egg Robo race",
+      "category": [
+        "Regal Ruins locatoins"
+      ],
+      "requires": "|Regal Ruins Key|"
+    },
+    {
+      "name": "Reactive Factory Coin on submarine",
+      "category": [
+        "Reactive Factory locatoins"
+      ],
+      "requires": "|Reactive Factory Key|"
+    },
+    {
+      "name": "Reactive Factory Coin start line right",
+      "category": [
+        "Reactive Factory locatoins"
+      ],
+      "requires": "|Reactive Factory Key|"
+    },
+    {
+      "name": "Reactive Factory Coin split road lower",
+      "category": [
+        "Reactive Factory locatoins"
+      ],
+      "requires": "|Reactive Factory Key|"
+    },
+    {
+      "name": "Reactive Factory Coin left of open area",
+      "category": [
+        "Reactive Factory locatoins"
+      ],
+      "requires": "|Reactive Factory Key|"
+    },
+    {
+      "name": "Reactive Factory Coin 20 ring door",
+      "category": [
+        "Reactive Factory locatoins"
+      ],
+      "requires": "|Reactive Factory Key|"
+    },
+    {
+      "name": "Reactive Factory Red chaos emerald 50 ring door",
+      "category": [
+        "Reactive Factory locatoins"
+      ],
+      "requires": "|Reactive Factory Key|"
+    },
+    {
+      "name": "Reactive Factory Yellow chaos emerald 50 ring door",
+      "category": [
+        "Reactive Factory locatoins"
+      ],
+      "requires": "|Reactive Factory Key|"
+    },
+    {
+      "name": "Win Metal Knuckles race",
+      "category": [
+        "Reactive Factory locatoins"
+      ],
+      "requires": "|Reactive Factory Key|"
+    },
+    {
+      "name": "Resort Island Balloons mode",
+      "category": [
+        "Balloonssanity"
+      ],
+      "requires": "|Resort Island Key|"
+    },
+    {
+      "name": "Radical City Balloons mode",
+      "category": [
+        "Balloonssanity"
+      ],
+      "requires": "|Radical City Key|"
+    },
+    {
+      "name": "Regal Ruins Balloons mode",
+      "category": [
+        "Balloonssanity"
+      ],
+      "requires": "|Regal Ruins Key|"
+    },
+	   {
+      "name": "Reactive Factory Balloons mode",
+      "category": [
+        "Balloonssanity"
+      ],
+      "requires": "|Reactive Factory Key|"
+    },
+    {
+      "name": "Resort Island time attack",
+      "category": [
+        "timeattacksanity"
+      ],
+      "requires": "|Resort Island Key|"
+    },
+    {
+      "name": "Radical City time attack",
+      "category": [
+        "timeattacksanity"
+      ],
+      "requires": "|Radical City Key|"
+    },
+    {
+      "name": "Reactive Factory time attack",
+      "category": [
+        "timeattacksanity"
+      ],
+      "requires": "|Reactive Factory Key|"
+    },
+    {
+      "name": "Regal Ruins time attack",
+      "category": [
+        "timeattacksanity"
+      ],
+      "requires": "|Regal Ruins Key|"
+    },
+    {
+      "name": "Resort Island reverse time attack",
+      "category": [
+        "reversetimeattacksanity"
+      ],
+      "requires": "|Resort Island Key|"
+    },
+    {
+      "name": "Radical City reverse time attack",
+      "category": [
+        "reversetimeattacksanity"
+      ],
+      "requires": "|Radical City Key|"
+    },
+    {
+      "name": "Reactive Factory reverse time attack",
+      "category": [
+        "reversetimeattacksanity"
+      ],
+      "requires": "|Reactive Factory Key|"
+    },
+    {
+      "name": "Regal Ruins reverse time attack",
+      "category": [
+        "reversetimeattacksanity"
+      ],
+      "requires": "|Regal Ruins Key|"
+    },
+    {
+      "name": "Resort Island tag",
+      "category": [
+        "Tagsanity"
+      ],
+      "requires": "|Resort Island Key|"
+    },
+    {
+      "name": "Radical City tag",
+      "category": [
+        "Tagsanity"
+      ],
+      "requires": "|Radical City Key|"
+    },
+    {
+      "name": "Reactive Factory tag",
+      "category": [
+        "Tagsanity"
+      ],
+      "requires": "|Reactive Factory Key|"
+    },
+    {
+      "name": "Regal Ruins tag",
+      "category": [
+        "Tagsanity"
+      ],
+      "requires": "|Regal Ruins Key|"
+    }
+  ]
+}
