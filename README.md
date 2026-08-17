@@ -1,7 +1,7 @@
 # Sonic R AP manual
 A Archipelago Manual for Sonic R 
 
-# Notes
+# Extra Info
 - If you are using the pc version and sonic r mod manager (You should BTW) i recommend using these codes.
   - If You wanna use Sonic R mod manager use Sonic R Updater!
 - Codes to use (sonic r mod manager pc version):
@@ -21,14 +21,14 @@ Get first place in Radiant Emerald with all Chaos Emeralds
 - Characters
 - Choas Emeralds
 - Stages
-- Unlockable Characters (optional) 
+- (optional) Unlockable Characters
 
 # Checks
 - Sonic Coins
 - Chaos Emeralds
 - Winning unlockable Characters races
 - 1st place in Grand prix as the starting Charaters
-- time attack (optional) 
-- reverse time attack (optional) 
-- "get 5 Balloons" Mode (optional) 
-- Tag Mode (optional) 
+- (optional) time attack
+- (optional) reverse time attack
+- (optional) "get 5 Balloons" Mode
+- (optional) Tag Mode
